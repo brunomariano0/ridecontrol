@@ -33,7 +33,16 @@ cd nome-do-repositorio
 npm install
 
 4️⃣ Execute o projeto:
-
+cd nome do projeto
+npm install
 npm run dev
 
 🎉 Pronto! Agora é só acessar o navegador e usar o sistema.
+
+![Screenshot 2025-03-19 182302](https://github.com/user-attachments/assets/e00f594f-b9dc-4010-95ee-05b71e069b7f)
+![Screenshot 2025-03-19 182331](https://github.com/user-attachments/assets/b25a56f1-47a7-4a14-8ab3-055cfd1082c2)
+
+
+
+
+
